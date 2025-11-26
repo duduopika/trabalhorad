@@ -1,4 +1,4 @@
-# trabalhorad
+# Trabalho RAD/Interface Gráfica em Python 
 Trabalho RAD/Interface Gráfica em Python utilizando banco de dados, tkinter
 
 Trabalho é composto de uma interface gráfica com CRUD completo, com possibilidade de inserção de nota, atualização de nota, delete de nota, e também fornece um gráfico acordado com a média de notas por disciplina. O projeto compõe-se de um banco de dados estático SQlite e é feito inteiramente em Python, utilizando apenas o Tkinter para a modelagem e lógica da interface gráfica.
